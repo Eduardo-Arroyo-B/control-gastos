@@ -207,7 +207,7 @@ header h1 {
 }
 .contenido-presupuesto p.negativo,
 .contenido-presupuesto p.negativo span {
-    color: red;
+    color: #DC2626;
 }
 .contenido-presupuesto span {
     font-weight: 900;
@@ -342,6 +342,7 @@ main {
     bottom: 0;
 }
 .modal .cerrar-modal {
+    cursor: pointer;
     position: absolute;
     right: 3rem;
     top: 3rem;
