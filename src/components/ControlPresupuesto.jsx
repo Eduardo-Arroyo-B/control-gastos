@@ -37,8 +37,6 @@ const ControlPresupuesto = ({presupuesto, setPresupuesto, gastos, setGastos, set
             setGastos([])
             setPresupuesto(0)
             setIsValidPresupuesto(false)
-        } else {
-
         }
     }
 
